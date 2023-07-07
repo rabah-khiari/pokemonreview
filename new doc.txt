@@ -1,4 +1,11 @@
 test c rien 
-lkheldk
-vrfrlkf lrf
-rm lfk
+
+
+pour clone 
+
+git clone lien ...
+
+pour push 
+git add . (mean all )
+git commit -m "first commit"
+git push
